@@ -1,0 +1,6 @@
+21. ¿Cuales son las diferencias entre la ejecucion del program "Hola mundo" con el interprete de ruby y el interprete interactivo del ejercicio anterior?
+
+En el interprete interactivo se ejecuta linea por linea mostrando la linea que va a ejecutar y la version siempre antes de cada sentencia.
+En cambio en el interprete de ruby directamente ejecuta el código fuente.
+
+

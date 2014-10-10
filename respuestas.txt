@@ -3,3 +3,9 @@
 En el interprete interactivo se ejecuta linea por linea mostrando la linea que va a ejecutar y la version siempre antes de cada sentencia.
 En cambio en el interprete de ruby directamente ejecuta el código fuente.
 
+27. ¿Cuales son las diferencias entre la ejecucion del programa "hola mundo" con el interprete interactivo y con pry?
+
+En la ejecución del hola mundo, solo hay sentencias explicitas de lo que tiene que hacer el programa. 
+En cambio en el interprete interactivo con pry, llamamos a pry para que se inicie y apartir de ahí podemos modificar nuestras variables y clases en tiempo de ejecución.
+
+
